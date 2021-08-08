@@ -16,7 +16,7 @@ An object groups together a mutable set of variables and functions to create a m
 
   * List of all of the students in class - Array- because the data is only first or last name, makes sense to access via numerical index.
   * List of states and their capitals - Object- because there are 50 states and each has a capital, so makes more sense to store in an Object.
-  * List of things to pack for vacation - I could see this one going either way--I initially thought an array would make more sense, because its a list of things to pack for one vacation. I think that is probably the correct way to do it but I would personally like to use an object like cesaresVacationPacking and I would have a array of strings in each separate property that I would name clothing, beautyProducts, shoes, essentials, workStuff etc., but I am a big overpacker lol.  
+  * List of things to pack for vacation - I could see this one going either way--I initially thought an array would make more sense, because it's a list of things to pack for one vacation. I think that is probably the correct way to do it but I would personally like to use an object like cesaresVacationPacking and I would have a array of strings in each separate property that I would name clothing, beautyProducts, shoes, essentials, workStuff etc., but I am a big overpacker lol.  
   * Names of all the Instagram accounts I follow - Array because it is simply names and can be accessed easily by index value.
   * List of student names and their cohort - Object because each student's name contains their cohort information.
   * Ingredients and amount of each ingredient to bake a cake - Object because the ingredents need to contain values for a recipe.
