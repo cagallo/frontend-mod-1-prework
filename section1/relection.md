@@ -2,7 +2,7 @@
 
 1. How did the SuperLearner Article resonate with you? What from this list do you already do? Want to start doing or do more of? Is there anything not on this list, that you would add to it?
 
-I am already a huge reader and devour new information enthusiastically, so that tip from tHE SuperLearner article definitely hit home. I see learning as a lifelong journey and I really enjoy the entire process. I really like the habit of teaching others or implementing new concept/s rapidly (like working through new code in your text editor) because I have seen that when I do those things, I retain the new information better than I would have otherwise. I also like the tip to take breaks in order to break up the learning process and to help digest the new concepts.
+I am already a huge reader and devour new information enthusiastically, so that tip from the SuperLearner article definitely hit home. I see learning as a lifelong journey and I really enjoy the entire process. I really like the habit of teaching others or implementing new concept/s rapidly (like working through new code in your text editor) because I have seen that when I do those things, I retain the new information better than I would have otherwise. I also like the tip to take breaks in order to break up the learning process and to help digest the new concepts.
 
 2. What are the data types you learned about in this section? In your own words, define each.
 

@@ -32,7 +32,7 @@ console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
 
-console.log("The" + " " + speedy + " " + "jumped over the" + " " + slowPoke);
+console.log("The " + speedy +  " jumped over the "  + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -42,7 +42,7 @@ console.log("The" + " " + speedy + " " + "jumped over the" + " " + slowPoke);
 slowPoke = "tortoise";
 speedy = "hare";
 
-console.log("In a predictable result, the" + " " + slowPoke + " " + "beat the" + " " + speedy + "!");
+console.log("In a predictable result, the "  + slowPoke + "beat the " + speedy + "!");
 
 // YOU DO:
 // Declare three variables, name/content/data type of your choice. Think carefully about what
@@ -54,7 +54,7 @@ var destinationCity = "Denver";
 var fastCar = "Subaru";
 var slowCar = "Jeep";
 
-console.log("The" + " " + fastCar + " " + "made it to" + " " + destinationCity + " " + "faster than the" + " " + slowCar);
+console.log("The " + fastCar + " made it to " + destinationCity + " faster than the " + slowCar);
 
 //-------------------
 // FINAL CHECK
