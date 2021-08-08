@@ -87,7 +87,7 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 
 // 1: Kaiser permanente: lists utlized when it names all its locations in Colorado
 // 2: Kaiser permanente: select a reigion near you and lists all their regional locations
-// 3: kaiser permanente: my health record- lists information like weight, height, blood pressure, cholersterol etc. 
+// 3: kaiser permanente: my health record- lists information like weight, height, blood pressure, cholersterol etc.
 
 
 //-------------------
@@ -113,11 +113,9 @@ var chargerType = "car";
 
 if (percentBatteryLeft > 15) {  //If statement checking if the value in condition 1 evaluates to true
   console.log("You are able to call an Uber now!"); //if true, this code will execute
-}
-else if (hasCharger === true && chargerType === "car") { //else if statement to check if the value in condition 2 evaluates to true
-  console.log("You can order an uber and charge your phone in the car!"); //this code executes if it evaluates to true and condition
-}   //and condition 1 evaluates to false
-else (percentBatteryLeft < 15) {  //else statement that will execute code if condition 1 and 2 both return false
+  } else if (hasCharger === true && chargerType === "car") { //else if statement to check if the value in condition 2 evaluates to true
+  console.log("You can order an uber and charge your phone in the car!"); //this code executes if condition 2 evaluates to true and condition 1 evaluates to false
+  } else (percentBatteryLeft < 15) {  //else statement that will execute code if condition 1 and 2 both return false
   console.log("You can't order an uber unless you have a car charger!"); //code that will execute if condiiton 1 and 2 evaluate to false
 }
 
